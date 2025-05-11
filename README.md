@@ -2,6 +2,15 @@
 
 这是一个为母亲节精心制作的交互式网页礼物，通过多种动画效果和互动元素表达对母亲的爱与感谢。
 
+<div align="center">
+  <img src="./public/1.png" width="45%" alt="展示图1">
+  <img src="./public/2.png" width="45%" alt="展示图2">
+</div>
+<div align="center">
+  <img src="./public/3.png" width="45%" alt="展示图3">
+  <img src="./public/4.png" width="45%" alt="展示图4">
+</div>
+
 ## 💻 技术栈
 
 - **前端框架**：Vue 3
@@ -70,6 +79,7 @@ motherDay/
 │   └── main.js           # 入口文件
 └── package.json          # 项目配置
 ```
+
 
 ## ❤️ 感谢
 
