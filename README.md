@@ -54,11 +54,9 @@ npm run build
 yarn build
 ```
 
-### 预览生产版本
+### 请注意
 ```bash
-npm run preview
-# 或
-yarn preview
+需在public目录中放置momandme.jpg图片
 ```
 
 ## 🧠 项目结构
